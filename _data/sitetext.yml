@@ -108,9 +108,9 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
+      - name: "Rudra Patel"
+        role: "Co-Founder"
+        image: assets/img/05F5C0DD-1B77-4536-83EE-556817497412_4_5005_c.jpeg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
