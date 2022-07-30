@@ -1,7 +1,7 @@
 ---
-title: Project Threads
+title: Code.org
 subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/01-full.jpg
+image: assets/img/portfolio/codeorg.png
 alt: Shirts on a hanger
 
 caption:
