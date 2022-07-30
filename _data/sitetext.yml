@@ -49,9 +49,9 @@ en: &DEFAULT_EN
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
+      - name: "Tanya Datta"
+        role: "Founder"
+        image: assets/img/team/IMG-7180.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -61,7 +61,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Rudra Patel"
         role: "Co-Founder"
-        image: assets/img/team/1.jpeg
+        image: assets/img/team/rudra.JPG
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -69,9 +69,9 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
+      - name: "Allison Yu"
+        role: "Outreach and Social Media Coordinator"
+        image: assets/img/team/IMG-6963.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -79,6 +79,8 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
+      
+      
 
   contact:
     title: "Contact Us"
