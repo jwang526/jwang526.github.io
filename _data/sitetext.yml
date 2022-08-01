@@ -21,15 +21,12 @@ en: &DEFAULT_EN
     text: "After School AI is a program created by four Penn High School seniors that aims to spark youth interest in the realms of artificial intelligence."
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+      - title: "Eduction"
+        desc: "As technology faces revolutionary developments, AI will play a critical role in the future of today’s generation. Our mission is to introduce and educate local elementary students to this vast field. To do so, we plan to make 45-minute visits to elementary schools in the PHM district through Kids Club, as well as other educational events, and showcase enriching presentations that are easy to understand.."
+        icon: fas fa-chalkboard-user #find more at https://fontawesome.com/icons
       - title: "Responsive Design"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
 
   portfolio:
     title: "Portfolio"
