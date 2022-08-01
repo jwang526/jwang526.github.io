@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to After School AI!
+    title: Welcome to our Studio!
     text: It's Nice To Meet You
     button: Tell Me More
     buttonlink: "#services"
@@ -80,8 +80,8 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Emily"
-        role: "dik"
-        image: 
+        role: "idk"
+        image: assets/img/team/2.jpg  
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
