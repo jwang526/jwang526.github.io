@@ -11,8 +11,8 @@ caption:
 ---
 Code.org is the leading free educational program in the US for teaching computer science to K-12 students. Their curriculum focuses on basic programming activities that foster problem solving skills and creativity through animations, personalized tutorials, puzzles, games, etc.
 
-#{:.list-inline}
-#- Date: January 2017
-#- Client: Threads
-#- Category: Illustration
+{:.list-inline}
+- Date: January 2017
+- Client: Threads
+- Category: Illustration
 
