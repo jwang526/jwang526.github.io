@@ -61,7 +61,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Rudra Patel"
         role: "Co-Founder"
-        image: assets/img/team/rudra 2.jpg
+        image: assets/img/team/rudra-2.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
