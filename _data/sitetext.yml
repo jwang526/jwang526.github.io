@@ -79,9 +79,9 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Emily"
-        role: "idk"
-        image: assets/img/team/2.jpg  
+      - name: "Emily Nochowitz"
+        role: "Events Coordinator"
+        image: assets/img/team/IMG-7624.jpg 
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
