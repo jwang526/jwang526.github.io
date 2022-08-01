@@ -11,14 +11,14 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
+    title: Welcome to After School AI!
     text: It's Nice To Meet You
     button: Tell Me More
     buttonlink: "#services"
 
   services:
     title: "Our Program"
-    text: "Lorem ipsum"
+    text: "After School AI is a program created by four Penn High School seniors that aims to spark youth interest in the realms of artificial intelligence."
     section: services
     list:
       - title: "E-Commerce"
