@@ -23,7 +23,7 @@ en: &DEFAULT_EN
     list:
       - title: "Educate"
         desc: "As technology faces revolutionary developments, AI will play a critical role in the future of today’s generation. Our mission is to introduce and educate local elementary students to this vast field. To do so, we plan to make 45-minute visits to elementary schools in the PHM district through Kids Club, as well as other educational events, and showcase enriching presentations that are easy to understand."
-        icon: fas fa-chalkboard-user #find more at https://fontawesome.com/icons
+        icon: fas fa-user #find more at https://fontawesome.com/icons
       - title: "Content"
         desc: "In order to introduce the complex topic of artificial intelligence, we will first engage the students in games that utilize machine learning. This will allow them to see its many diverse (and fun!) applications. Following the interactive games, the presentation will briefly cover how they were created using analogies that kids can understand. We will end with a few examples of how AI is implemented in the real world."
         icon: fas fa-display-code
