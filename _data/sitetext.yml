@@ -26,13 +26,12 @@ en: &DEFAULT_EN
         icon: fas fa-user #find more at https://fontawesome.com/icons
       - title: "Content"
         desc: "In order to introduce the complex topic of artificial intelligence, we will first engage the students in games that utilize machine learning. This will allow them to see its many diverse (and fun!) applications. Following the interactive games, the presentation will briefly cover how they were created using analogies that kids can understand. We will end with a few examples of how AI is implemented in the real world."
-        icon: fas fa-display-code
+        icon: fas fa-laptop-code
 
   portfolio:
     title: "Resources"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Here our resources that are kid-friendly and can introduce children to the basics of programming and machine learning!"
     section: portfolio
-    closebutton: "Close Project"
 
   about:
     title: "About Us"
