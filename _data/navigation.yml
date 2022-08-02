@@ -18,7 +18,7 @@ en: &DEFAULT_EN
     - title: "About"
       section: about
     - title: "Team"
-      section: team
+      section: about_team
     - title: "Contact"
       section: contact
     - title: "Theme Source"
