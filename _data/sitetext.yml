@@ -29,7 +29,7 @@ en: &DEFAULT_EN
         icon: fa-duotone fa-display-code
 
   portfolio:
-    title: "Portfolio"
+    title: "Resources"
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
     closebutton: "Close Project"

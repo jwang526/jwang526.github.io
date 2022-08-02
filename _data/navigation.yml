@@ -13,7 +13,7 @@ en: &DEFAULT_EN
   nav:
     - title: "Our Program"
       section: services
-    - title: "Portfolio"
+    - title: "Resources"
       section: portfolio
     - title: "About"
       section: about
