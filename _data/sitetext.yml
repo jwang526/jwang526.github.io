@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     title:   
     text: Welcome to After School AI!
     button: Tell Me More
-    buttonlink: "#our-program"
+    buttonlink: "#services"
 
   services:
     title: "Our Program"
