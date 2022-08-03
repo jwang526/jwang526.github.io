@@ -12,9 +12,9 @@
 en: &DEFAULT_EN
   nav:
     - title: "Our Program"
-      section: services
-    - title: "Resources"
       section: our-program
+    - title: "Resources"
+      section: portfolio
     - title: "Team"
       section: about-team
     - title: "Contact"
