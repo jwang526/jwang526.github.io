@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to After School AI!
-    text: It's Nice To Meet You
+    title:   
+    text: Welcome to After School AI!
     button: Tell Me More
     buttonlink: "#services"
 
