@@ -15,14 +15,11 @@ en: &DEFAULT_EN
       section: services
     - title: "Resources"
       section: portfolio
-    - title: "About"
-      section: about
     - title: "Team"
-      section: about_team
+      section: about-team
     - title: "Contact"
       section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+
 en-US:
   <<: *DEFAULT_EN
 en-CA:
