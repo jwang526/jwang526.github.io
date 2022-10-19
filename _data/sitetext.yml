@@ -30,7 +30,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Resources"
-    text: "Here our resources that are kid-friendly and can introduce children to the basics of programming and machine learning!"
+    text: "Here are resources that are kid-friendly and can introduce children to the basics of programming and machine learning!"
     section: portfolio
 
   about:
