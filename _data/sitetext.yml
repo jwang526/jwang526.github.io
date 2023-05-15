@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title:   
-    text: Welcome to After School AI!
+    title: Music For
+    text: Welcome to Music For!
     button: Tell Me More
     buttonlink: "#our-program"
 
