@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Music For
-    text: Welcome to Music For!
+    text: Music For
+    title: Giving the gift of music to all.
     button: Tell Me More
     buttonlink: "#our-program"
 
