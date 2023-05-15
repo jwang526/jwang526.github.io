@@ -17,8 +17,8 @@ en: &DEFAULT_EN
     buttonlink: "#our-program"
 
   services:
-    title: "Our Program"
-    text: "After School AI is a program created by four Penn High School seniors that aims to spark youth interest in the realms of artificial intelligence."
+    title: "About Us"
+    text: "Music For is a nonprofit organization based in Northern Indiana that provides the opportunity for student musicians to perform in their communities, making a difference with their musical talent."
     section: services
     list:
       - title: "Educate"
