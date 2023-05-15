@@ -1,7 +1,9 @@
 #Color Customization
-#highlight: "#54bfff"
-#white: "#FFFFFF"
-#black: "#000"
+color:
+  primary: b62424
+  secondary: fec503   
+  secondary-dark: 333
+  muted: 777
 
 #Image Customization
 header-image: "../img/header-bg.jpg"
