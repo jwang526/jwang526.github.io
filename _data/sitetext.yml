@@ -29,8 +29,8 @@ en: &DEFAULT_EN
         icon: fas fa-laptop-code
 
   portfolio:
-    title: "Resources"
-    text: "Here are resources that are kid-friendly and can introduce children to the basics of programming and machine learning!"
+    title: "Our Partners"
+    text: "We are so grateful to partner with the following organizations in the Michiana area, who allow us to perform at their location!"
     section: portfolio
 
   about:
