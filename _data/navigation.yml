@@ -13,12 +13,14 @@ en: &DEFAULT_EN
   nav:
     - title: "Our Program"
       section: our-program
-    - title: "Resources"
+    - title: "Our Partners"
       section: portfolio
     - title: "Team"
       section: about-team
     - title: "Contact"
       section: contact
+    - title: "Sponsors"
+      section: sponsors
 
 en-US:
   <<: *DEFAULT_EN
