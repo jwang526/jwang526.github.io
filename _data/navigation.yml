@@ -17,10 +17,10 @@ en: &DEFAULT_EN
       section: portfolio
     - title: "Team"
       section: about-team
-    - title: "Contact"
-      section: contact
     - title: "Sponsors"
       section: sponsors
+    - title: "Contact"
+      section: contact
 
 en-US:
   <<: *DEFAULT_EN
