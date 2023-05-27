@@ -30,7 +30,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Our Partners"
-    text: "We are so grateful to partner with the following organizations in the Michiana area, who allow us to perform at their locations!"
+    text: "We are so grateful to partner with the following organizations in the Michiana area, some providing us with the talented student musicians that make our organization possible, and others allowing us to perform at their locations!"
     section: portfolio
 
   about:
