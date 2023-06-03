@@ -16,7 +16,7 @@ en: &DEFAULT_EN
     - title: "Our Partners"
       section: portfolio
     - title: "Our Performers"
-      section: our_performers
+      section: our-performers
     - title: "Founders"
       section: about-team
     - title: "Contact"
