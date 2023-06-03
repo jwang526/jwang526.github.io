@@ -16,11 +16,9 @@ en: &DEFAULT_EN
     - title: "Our Partners"
       section: portfolio
     - title: "Our Performers"
-      section: portfolio-2
-    - title: "Team"
+      section: our_performers
+    - title: "Founders"
       section: about-team
-    - title: "Sponsors"
-      section: sponsors
     - title: "Contact"
       section: contact
 
