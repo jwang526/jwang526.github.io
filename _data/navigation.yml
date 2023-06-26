@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Our Program"
+    - title: "Our Mission"
       section: our-program
     - title: "Our Performers"
       section: our-performers
