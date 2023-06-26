@@ -13,10 +13,10 @@ en: &DEFAULT_EN
   nav:
     - title: "Our Program"
       section: our-program
-    - title: "Our Partners"
-      section: portfolio
     - title: "Our Performers"
       section: our-performers
+    - title: "Our Partners"
+      section: portfolio
     - title: "Founders"
       section: about-team
     - title: "Contact"
