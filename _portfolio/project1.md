@@ -1,15 +1,15 @@
 ---
-title: Code.org
-subtitle: Online Lessons and Games
+title: PHSO
+subtitle: Penn High School Orchestras
 image: assets/img/portfolio/cody.png
 alt: Shirts on a hanger
 
 caption:
-  title: Code.org
-  subtitle: Online Lessons and Games
+  title: PHSO
+  subtitle: Penn High School Orchestras
   thumbnail: assets/img/portfolio/cody.png
 ---
-Code.org is the leading free educational program in the US for teaching computer science to K-12 students. Their curriculum focuses on basic programming activities that foster problem solving skills and creativity through animations, personalized tutorials, puzzles, games, etc.
+The Penn High School Orchestras represent the 5 orchestras at Penn High School. Each year, these five orchestras score gold ratings in the Indiana State School Music Association contest, with the Symphonic Orchestra receiving 4th place at state competition. The Symphonic Orchestra has also been recognized at the Midwest Clinic International Band, Orchestra and Music Conference in Chicago, and has competed in multiple national competitions, including the National Orchestra Festival.
 
 
 
